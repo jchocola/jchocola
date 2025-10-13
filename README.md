@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nguyen.the.bac.vn@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/BAJWDAlXWlxaUlZVCFdUAwsCVANXAABQBA0LBg05b1](https://www.topcv.vn/xem-cv/BAJWDAlXWlxaUlZVCFdUAwsCVANXAABQBA0LBg05b1)
+- 📄 Know about my experiences [CV](https://www.topcv.vn/xem-cv/VgMGBgFQDl1UVwNSDgZXXgRQBwZWVQFWUFUGUw593d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
