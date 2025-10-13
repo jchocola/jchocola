@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Scalp AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jchocola](https://github.com/jchocola)
+- 👨‍💻 All of my projects are available at [JAE(Just About Experience)-Web App](https://jchocola.github.io/jae_web/)
 
 - 💬 Ask me about **Dart, Flutter**
 
