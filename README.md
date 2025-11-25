@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bac</h1>
-<h3 align="center">A passionate Flutter developer from Russia</h3>
+<h3 align="center">A passionate Flutter developer </h3>
 
-- 🔭 I’m currently working on **Scalp AI**
+- 🔭 I’m currently working on **My Pets Projects**
 
 - 🌱 I’m currently learning **Flame Game Engine**
 
