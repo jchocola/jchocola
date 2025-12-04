@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Pets Projects**
 
-- 🌱 I’m currently learning **Flame Game Engine**
+- 🌱 I’m currently learning **Dart Frog**
 
 - 👯 I’m looking to collaborate on **Scalp AI**
 
